@@ -10,8 +10,11 @@ But it is important that Sy still exists, And if something happened to your proj
 but don't remove licenses the Fakles Folders and Files inside @Media, if @.X as zip been edit or delete
 We respect all the world no matter your type Realize your projects and dreams
 
+You are required to follow our code of conduct, while enjoying the freedom to contribute and participate in our community
 And hey we are freedom but don't breaking it 
 But can make your projects
 
 so before you follow his readers :)
 good Luck :3
+:D
+
