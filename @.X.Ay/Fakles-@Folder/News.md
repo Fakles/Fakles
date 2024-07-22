@@ -15,3 +15,4 @@ so you need copy and rework
 # Patch Notes
 
 - 2024/7/21 : There are some @.X.Ay and @.X.My needs to be improved for later
+- 2024/7/22 : @.X.Ay and @.X.My are improved and ready to use
