@@ -1,21 +1,19 @@
 <p align="center">
-<img src="./@.X.Ay/Fakles-@Folder/Art/Image.svg" alt="Fakles. Studio, Source, And Store With Fakle." />
+<img src="./@.X.Ay/Assets/@.Art/Image.svg" alt="Fakles. Studio, Source, And Store With Fakle." />
 </p>
-<div align="center">
-  ( It's working for lasted fakle *don't try it now* )
 <div align="center">
   Create your own projects with a community and company
 </div>
 <div align="center">
   Fakles 2022+ 
-  <a href="https://github.com/Fakles/Fakles/blob/Fakle/%40.X.Ay/Fakles-%40Folder/Addons.md"> 📦 Addons <a>
+  <a href="https://github.com/Fakles/Fakles/tree/Fakle/@.X.Ay/Assets/@.Note/Fakles-English/Addons.md"> 📦 Addons <a>
   -
-  <a href="https://github.com/Fakles/Fakles/blob/Fakle/%40.X.Ay/Fakles-%40Folder/Code.md"> ⚖️ Code <a>
+  <a href="https://github.com/Fakles/Fakles/tree/Fakle/@.X.Ay/Assets/@.Note/Fakles-English/Code&Conduct.md"> ⚖️ Code&Conduct <a>
   -
-  <a href="https://github.com/Fakles/Fakles/blob/Fakle/%40.X.Ay/Fakles-%40Folder/Credits.md"> 🎓 Credits <a>
+  <a href="https://github.com/Fakles/Fakles/tree/Fakle/@.X.Ay/Assets/@.Note/Fakles-English/Credits.md"> 🎓 Credits <a>
   -
-  <a href="https://github.com/Fakles/Fakles/blob/Fakle/%40.X.Ay/Fakles-%40Folder/Info.md"> 📄 Info <a>
+  <a href="https://github.com/Fakles/Fakles/tree/Fakle/@.X.Ay/Assets/@.Note/Fakles-English/Info.md"> 📄 Info <a>
   -
-  <a href="https://github.com/Fakles/Fakles/blob/Fakle/%40.X.Ay/Fakles-%40Folder/News.md"> 📢 News <a>
+  <a href="https://github.com/Fakles/Fakles/tree/Fakle/@.X.Ay/Assets/@.Note/Fakles-English/News.md"> 📢 News <a>
 </div>
 
