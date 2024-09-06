@@ -1,0 +1,65 @@
+@ = ( ./@.Booted, ./@.Loaded, ./@.Looted, ./@.Marked, ./@.Rooted, ./@.Safed, ./@.Saved, ./@.Shared, ./@.Used )
+
+Archs = ( ./Archs )
+
+Cameras = ( ./Cameras )
+
+Controllers = ( ./Controllers )
+
+Eco-Systems = ( ./Eco-Systems )
+
+Fans = ( ./Fans )
+
+File-Systems = ( ./File-Systems )
+
+Flashs = ( ./Flashs )
+
+Folder-Systems = ( ./Folder-Systems )
+
+Graphics = ( ./Graphics )
+
+Head-Phones = ( ./Head-Phones )
+
+Hypers = ( ./Hypers )
+
+In-Puts = ( ./In-Puts )
+
+Keyboards = ( ./Keyboards )
+
+Lights = ( ./Lights )
+
+Memorys = ( ./Memorys )
+
+Micro-Phones = ( ./Micro-Phones )
+
+Motions = ( ./Motions )
+
+Mouses = ( ./Mouses )
+
+Networks = ( ./Networks )
+
+Out-Puts = ( ./Out-Puts )
+
+Ports = ( ./Ports )
+
+Powers = ( ./Powers )
+
+Printers = ( ./Printers )
+
+Procesors = ( ./Procesors )
+
+Screens = ( ./Screens )
+
+Smarts = ( ./Smarts )
+
+Speakers = ( ./Speakers )
+
+Storages = ( ./Storages )
+
+Sub-Systems = ( ./Sub-Systems )
+
+Swaps = ( ./Swaps )
+
+Touchs = ( ./Touchs )
+
+Wireless = ( ./Wireless )
